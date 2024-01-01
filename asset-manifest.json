@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.ae25b570.css",
+    "main.js": "/react-portfolio/static/js/main.71c8a02e.js",
+    "static/js/787.a7249224.chunk.js": "/react-portfolio/static/js/787.a7249224.chunk.js",
+    "static/media/proj 1.png": "/react-portfolio/static/media/proj 1.79ff0005a0fab4d9e6bd.png",
+    "static/media/proj 3.png": "/react-portfolio/static/media/proj 3.0dcbf62ceb44afefeb55.png",
+    "static/media/proj 2.png": "/react-portfolio/static/media/proj 2.79ae8d0bdf3cc616fc8f.png",
+    "static/media/sakshi shinde resume.pdf": "/react-portfolio/static/media/sakshi shinde resume.91d232b46ed7578378a9.pdf",
+    "static/media/logo.svg": "/react-portfolio/static/media/logo.bba63c759c3e6abe565c79a721303680.svg",
+    "static/media/my-img.jpeg": "/react-portfolio/static/media/my-img.eda1b9a35944a03c8918.jpeg",
+    "static/media/kubernetes.svg": "/react-portfolio/static/media/kubernetes.9c2b252df012670856cc2db6e7364d84.svg",
+    "static/media/mongodb.svg": "/react-portfolio/static/media/mongodb.b508609b24c1a2bc58576411df58bb4b.svg",
+    "static/media/react.svg": "/react-portfolio/static/media/react.e27571eaed899c642345e71163624ef9.svg",
+    "static/media/mysqllogo.svg": "/react-portfolio/static/media/mysqllogo.5dbd7ffb56a921cecde426cca82f0df4.svg",
+    "static/media/nodejs.svg": "/react-portfolio/static/media/nodejs.3dc364b8e9beb3561620274aea4f0844.svg",
+    "static/media/python.svg": "/react-portfolio/static/media/python.6a8b2999db46fb931134216e8fdfdb2c.svg",
+    "static/media/html.svg": "/react-portfolio/static/media/html.e7638e3676622c76a46ece6c46136fd4.svg",
+    "static/media/docker.svg": "/react-portfolio/static/media/docker.d33285e5e47ca12603a0228b49aff3c2.svg",
+    "static/media/slick.svg": "/react-portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react-portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react-portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/git.svg": "/react-portfolio/static/media/git.fd381642a8b14fec88b8d6df1ff25220.svg",
+    "static/media/javascript.svg": "/react-portfolio/static/media/javascript.fd46ca41839433d73577989d86eb2fe2.svg",
+    "static/media/gitlab.svg": "/react-portfolio/static/media/gitlab.83df9efbb924c0491e38a75c2a39ca1b.svg",
+    "static/media/curve-hr.svg": "/react-portfolio/static/media/curve-hr.16b9fca607ca7942b81f2887bc2dae79.svg",
+    "static/media/tailwind.svg": "/react-portfolio/static/media/tailwind.50fbcf516b9a3774e9a83272167059ae.svg",
+    "static/media/slick.woff": "/react-portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/express.svg": "/react-portfolio/static/media/express.ea97b712340ffb8f11d85ccb96309507.svg",
+    "static/media/mylogo.svg": "/react-portfolio/static/media/mylogo.fd3847b03b0a9fb6cba3c3fb99e35677.svg",
+    "static/media/windows.svg": "/react-portfolio/static/media/windows.680a11acd0ab401f69e83c7caba17dc0.svg",
+    "index.html": "/react-portfolio/index.html",
+    "main.ae25b570.css.map": "/react-portfolio/static/css/main.ae25b570.css.map",
+    "main.71c8a02e.js.map": "/react-portfolio/static/js/main.71c8a02e.js.map",
+    "787.a7249224.chunk.js.map": "/react-portfolio/static/js/787.a7249224.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae25b570.css",
+    "static/js/main.71c8a02e.js"
+  ]
+}
